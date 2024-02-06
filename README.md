@@ -22,6 +22,3 @@ Implement a gymnastics scoring program with the following classes:
 ~~~~~
 “Congratulations, you are a top performer!”
 ~~~~~
-
-HINT: this will require the use of two static instance variables
-
